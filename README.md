@@ -53,10 +53,10 @@ Used the while loop, conditions, print function and functions I create
 ### 🤝 Contribution:
 </summary>
 
-    #### How to Contribute
-    
-    - **Bug fix:** If you have found a bug or want to suggest an improvement, please create a new [Issue](https://github.com/blackrainbowtest/PythonMiniProject3-Aram-Arakelyan/issues) with a detailed description.
-    - **Code changes:** If you'd like to make changes to the code, fork the repository, make the necessary modifications, and submit a [Pull Request](https://github.com/blackrainbowtest/PythonMiniProject3-Aram-Arakelyan/pulls).
+- ** How to Contribute **
+
+- **Bug fix:** If you have found a bug or want to suggest an improvement, please create a new [Issue](https://github.com/blackrainbowtest/PythonMiniProject3-Aram-Arakelyan/issues) with a detailed description.
+- **Code changes:** If you'd like to make changes to the code, fork the repository, make the necessary modifications, and submit a [Pull Request](https://github.com/blackrainbowtest/PythonMiniProject3-Aram-Arakelyan/pulls).
 
 </details>
 
