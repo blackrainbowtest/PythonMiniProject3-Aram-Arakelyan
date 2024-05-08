@@ -6,6 +6,7 @@ If you don't know how to install the environment (.venv), you can write me a pri
 
 <details>
 <summary>
+    
 ### 💫 Count down rules:
 </summary>
 
@@ -15,6 +16,7 @@ Insert time to countdown (h:m:s) to start countdown.
 
 <details>
 <summary>
+    
 ### 🚀 Key Features:
 </summary>
 
@@ -27,6 +29,7 @@ Used the while loop, conditions, print function and functions I create
 
 <details>
 <summary>
+    
 ### 📚 Usage:
 </summary>
 
@@ -46,13 +49,14 @@ Used the while loop, conditions, print function and functions I create
 
 <details open>
 <summary>
+    
 ### 🤝 Contribution:
 </summary>
 
-#### How to Contribute
-
-- **Bug fix:** If you have found a bug or want to suggest an improvement, please create a new [Issue](https://github.com/blackrainbowtest/PythonMiniProject3-Aram-Arakelyan/issues) with a detailed description.
-- **Code changes:** If you'd like to make changes to the code, fork the repository, make the necessary modifications, and submit a [Pull Request](https://github.com/blackrainbowtest/PythonMiniProject3-Aram-Arakelyan/pulls).
+    #### How to Contribute
+    
+    - **Bug fix:** If you have found a bug or want to suggest an improvement, please create a new [Issue](https://github.com/blackrainbowtest/PythonMiniProject3-Aram-Arakelyan/issues) with a detailed description.
+    - **Code changes:** If you'd like to make changes to the code, fork the repository, make the necessary modifications, and submit a [Pull Request](https://github.com/blackrainbowtest/PythonMiniProject3-Aram-Arakelyan/pulls).
 
 </details>
 
